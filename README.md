@@ -17,6 +17,7 @@ The Git Statistics Tool is a command-line interface (CLI) tool built with Dart. 
     - [Prerequisites](#prerequisites)
     - [Installing via Homebrew (macOS)](#installing-via-homebrew-macos)
   - [Usage](#usage)
+    - [or](#or)
   - [Options](#options)
 
 ## Installation
@@ -34,6 +35,10 @@ brew install git_statistics
 ## Usage
 ```sh
 dart bin/git_statistics.dart [options] [repository]
+```
+### or 
+```bash
+gitstat [options ] [repository]
 ```
 
 

@@ -1,0 +1,2 @@
+#!/bin/bash
+dart $(dirname $0)/gitstat.dart "$@"
